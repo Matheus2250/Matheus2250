@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/matheusvitorinoms">
-    <img src="https://img.shields.io/github/stars/matheusvitorinoms?style=social" alt="GitHub stars">
+  <a href="https://github.com/Matheus2250">
+    <img src="https://img.shields.io/github/stars/Matheus2250?style=social" alt="GitHub stars">
   </a>
 </p>
 
@@ -33,8 +33,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheusvitorinoms&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvitorinoms&layout=compact&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus2250&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus2250&layout=compact&theme=radical"/>
 </div>
 
 ---
