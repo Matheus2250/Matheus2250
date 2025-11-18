@@ -51,8 +51,7 @@
 ### Contato
 
 - Email: **matheus.vitorino@saude.gov.br**  
-- LinkedIn: *adicionar quando desejar*  
-- GitHub: https://github.com/matheusvitorinoms  
+- GitHub: https://github.com/Matheus2250  
 
 ---
 
