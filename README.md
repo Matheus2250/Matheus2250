@@ -40,15 +40,6 @@
 
 ---
 
-### Projetos em Destaque
-
-- **Automação Certidões DIPLI** — Automação completa para emissão e organização de certidões, em Python, seguindo o manual da DIPLI.  
-- **SCGLIC** — Sistema web com filtros customizados em HTML + JavaScript hospedado no GitHub.  
-- **Sistema de Planejamento, Qualificação, Licitação e Contratos** — Em desenvolvimento no Ministério da Saúde, integrando APIs oficiais do Comprasnet.  
-- **Agentes Autônomos para Gestão Administrativa** — Projeto experimental usando simulação de cargos e funções administrativas.  
-
----
-
 ### Contato
 
 - Email: **matheus.vitorino@saude.gov.br**  
