@@ -1,9 +1,8 @@
 <h1 align="center">Matheus Vitorino</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack<br>
-  Trabalhando com sistemas de Planejamento, Qualificação, Licitação e Contratos no Ministério da Saúde<br>
-  Experiência em Python, FastAPI, React, Tailwind, SQL, automações e integrações governamentais.
+  Desenvolvedor Full Stack
+  Experiência em Python, FastAPI, React, Tailwind, SQL e automações.
 </p>
 
 <p align="center">
