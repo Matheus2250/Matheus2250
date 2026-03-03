@@ -34,10 +34,10 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus2250&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus2250&layout=compact&theme=radical"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus2250&theme=radical" alt="Profile Details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matheus2250&theme=radical" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matheus2250&theme=radical" alt="Top Languages"/>
 </div>
-
 ---
 
 ### Contato
